@@ -4,7 +4,7 @@
 
 ## Crypto Wrld
 * #### [Our Discord](https://discord.gg/cryptowrld)
-* * #### [Our Website](https://cryptowrld.net)
+* #### [Our Website](https://cryptowrld.net)
 
 ## Branding Kit
 <div align="middle">
