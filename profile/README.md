@@ -3,7 +3,7 @@
 </div>
 
 ## Crypto Wrld
-<b>More information coming soon</b>
+* #### [Discord Server](https://discord.gg/cryptowrld)
 
 ## Branding Kit
 <div align="middle">
