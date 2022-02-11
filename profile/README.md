@@ -3,7 +3,8 @@
 </div>
 
 ## Crypto Wrld
-* #### [Discord Server](https://discord.gg/cryptowrld)
+* #### [Our Discord](https://discord.gg/cryptowrld)
+* * #### [Our Website](https://cryptowrld.net)
 
 ## Branding Kit
 <div align="middle">
